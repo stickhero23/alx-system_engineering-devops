@@ -9,3 +9,4 @@ The script 10-back changes directory from current to previous one.
 The script 8-firstdelete deletes the file betty from directory.
 The script 9-firstdirdeleion removes the directory specified.
 The script 11-lists displays contents of current directory, home directory, and /root.
+The script 12-file_type prints the file type of a given file, iamafile in /tmp/ directory.
