@@ -6,3 +6,4 @@ This fifth script, 4-listmorefiles displays contents of current directory includ
 The sixth script, 5-listfilesdigitonly displays contents of current directory including hidden files, long format, and includes user and group IDs.
 The 7th script 6-firstdirectory creates my_first_directory in /tmp/.
 The script 10-back changes directory from current to previous one.
+The script 8-firstdelete deletes the file betty from directory.
