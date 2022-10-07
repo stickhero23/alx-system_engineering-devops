@@ -8,3 +8,4 @@ The 7th script 6-firstdirectory creates my_first_directory in /tmp/.
 The script 10-back changes directory from current to previous one.
 The script 8-firstdelete deletes the file betty from directory.
 The script 9-firstdirdeleion removes the directory specified.
+The script 11-lists displays contents of current directory, home directory, and /root.
