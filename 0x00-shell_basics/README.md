@@ -10,3 +10,4 @@ The script 8-firstdelete deletes the file betty from directory.
 The script 9-firstdirdeleion removes the directory specified.
 The script 11-lists displays contents of current directory, home directory, and /root.
 The script 12-file_type prints the file type of a given file, iamafile in /tmp/ directory.
+The script 14-copy_html copies files that do not exist or are newer from current directory to its parent directory without 
