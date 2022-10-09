@@ -1,3 +1,4 @@
 Tis 0-iam_betty scripts swittches user to betty
 The whoami script prints effective username of current user
 This 2-groups script prints the groups of current user
+This script changes ownership of a file
