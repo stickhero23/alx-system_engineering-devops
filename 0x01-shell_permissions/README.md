@@ -5,3 +5,4 @@ This script changes ownership of a file
 This scripts creates an empty file called hello
 The 5-execute script adds exeute permission on owner file
 This file gives multiple permissions
+The script adds execute permission to all users
