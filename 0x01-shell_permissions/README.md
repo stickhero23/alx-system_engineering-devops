@@ -7,3 +7,4 @@ The 5-execute script adds exeute permission on owner file
 This file gives multiple permissions
 The script adds execute permission to all users
 This script adds no permissions to owner and group, and all permissions to other users
+This script sets rwx r-x -wx mode to the file
