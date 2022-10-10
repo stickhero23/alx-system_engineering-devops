@@ -10,3 +10,4 @@ This script adds no permissions to owner and group, and all permissions to other
 This script sets rwx r-x -wx mode to the file
 This script adds reference permissions
 Thi 11-directories_permissions recursively assigns permissions to directories
+This script creates a new directory with 751 permissions
