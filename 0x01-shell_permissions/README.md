@@ -11,3 +11,4 @@ This script sets rwx r-x -wx mode to the file
 This script adds reference permissions
 Thi 11-directories_permissions recursively assigns permissions to directories
 This script creates a new directory with 751 permissions
+This script changes group ownership of the hello file
