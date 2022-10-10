@@ -13,3 +13,4 @@ Thi 11-directories_permissions recursively assigns permissions to directories
 This script creates a new directory with 751 permissions
 This script changes group ownership of the hello file
 This script changes owner and group for a file
+TRhis script changes owner and group ownership for symbolic link
