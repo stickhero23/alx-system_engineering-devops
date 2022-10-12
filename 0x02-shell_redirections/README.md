@@ -9,3 +9,4 @@ The **7-file** script creates a file named with special characacters
 The *8-cwd_state* saves output of the command to a file
 The **9-duplicate_last_line** script duplicates the last line in file given.
 The **10-no_more_js** script finds and delets all js files in directory and subdirectory
+The **11-directories** script counts directories in current directory
