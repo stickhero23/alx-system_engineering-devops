@@ -12,3 +12,4 @@ The **10-no_more_js** script finds and delets all js files in directory and subd
 The **11-directories** script counts directories in current directory
 The 12-newest_lines script sorts by time and displays the top 10 files
 The 13-unique script prints unique files in order
+The 14-findthatword script searches for lines that contain root
