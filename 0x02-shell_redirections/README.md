@@ -1,2 +1,1 @@
-This 0-hello_world script prints Hello, World
-Adding Task 2 that shows a similey
+This script prints Hello World and a new line
