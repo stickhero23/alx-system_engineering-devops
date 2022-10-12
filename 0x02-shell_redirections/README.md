@@ -16,3 +16,4 @@ The 14-findthatword script searches for lines that contain root
 The 15-countthatword script counts words with bin in the file
 The **16-whatsnext** script finds lines with root and prints 3 lines agfter them
 17-hidethisword script prints lines without bin pattern
+This 18-letteronly script displays lines that start with a letter
