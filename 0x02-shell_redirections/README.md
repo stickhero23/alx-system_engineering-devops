@@ -20,3 +20,4 @@ This 18-letteronly script displays lines that start with a letter
 The script 19-AZ  replaces all Ac with Ze
 The 2-hiago script replaces all c with C
 The 21-reverse script reverses input
+The script 22-users_and_homes prints users and their homes
