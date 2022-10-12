@@ -18,3 +18,4 @@ The **16-whatsnext** script finds lines with root and prints 3 lines agfter them
 17-hidethisword script prints lines without bin pattern
 This 18-letteronly script displays lines that start with a letter
 The script 19-AZ  replaces all Ac with Ze
+The 2-hiago script replaces all c with C
