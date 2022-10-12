@@ -3,3 +3,4 @@ The script 1-confused_smiley prints a smiley.
 The script 2-hellofile displays content of the file
 The script displays content from two files
 The 4-lastlines script prints the last 10 lines of the file
+The 5-firstlines script displays the first 10 lines of the file
