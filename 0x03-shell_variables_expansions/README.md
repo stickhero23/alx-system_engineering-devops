@@ -13,3 +13,4 @@ The script 10-love_exponent_breath performs an exponent operation
 12-combinations performs a combinatorial operations using letters given
 13-print_float script prints a number with 2 decimal place
 101-rot13 performs rot13 encryption
+102-odd prints lines from input
