@@ -24,3 +24,4 @@ The script 22-users_and_homes prints users and their homes
 The 100-empty_casks script prints empty files and directory names
 The script 101-gifs displays gif files in directory and subdirectory
 102-acrostic creates an acrostic
+the script 103-the_biggest_fan parses tsv files logs of web server and prints the top 11
