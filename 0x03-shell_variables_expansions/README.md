@@ -10,3 +10,4 @@ The script **6-create_local_variable** creates a local variable
 The divide and rule script performs a division operation
 The script 10-love_exponent_breath performs an exponent operation
 11-binary_to_decimal converts binary numbers to decimal
+12-combinations performs a combinatorial operations using letters given
