@@ -9,3 +9,4 @@ The script **6-create_local_variable** creates a local variable
 8-true_knowledge does an addition operation
 The divide and rule script performs a division operation
 The script 10-love_exponent_breath performs an exponent operation
+11-binary_to_decimal converts binary numbers to decimal
