@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# Bash script uses if and while to print Best School
+# except the 9th iteration it prints Hi
+i=0
+while [ $i -lt 10 ]
+do
+	if [ $i -eq 8 ]
+	then
+		echo "Hi"
+	else
+		echo "Best School"
+	fi
+	i=$((i +=1))
+done
