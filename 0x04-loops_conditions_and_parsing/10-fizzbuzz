@@ -4,7 +4,7 @@
 # displays Fizz if a multiple of 3
 # displays Buzz if a multiple of 5
 # else displays number
-i=0
+i=1
 while [ $i -le 100 ]
 do
 	if (( i % 3 == 0 )) && (( i % 5 == 0 ))
