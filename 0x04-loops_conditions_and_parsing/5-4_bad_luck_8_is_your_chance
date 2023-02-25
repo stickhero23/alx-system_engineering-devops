@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Bash script that loops 1 to 10 using while loop and if-elif-else
-i=0
+i=1
 while [ $i -le 10 ]
 do
 	if [ $i -eq 4 ]
