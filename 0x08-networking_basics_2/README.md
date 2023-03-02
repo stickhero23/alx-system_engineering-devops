@@ -1,4 +1,4 @@
-This is a README for 0x08
+# 0x08. Networking basis #1
 Write a Bash script that configures an Ubuntu server with the below requirements.
 
 Requirements:
