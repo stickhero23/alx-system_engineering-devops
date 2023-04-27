@@ -1,11 +1,29 @@
 #!/usr/bin/env bash
-# install nginx on web server,
-# set Nginx to listen to port 80
-# Query Nginx at root with GET request
-# curl http://54.157.190.122/
-# curl http://54.157.190.122/
 
-sudo apt-get -y update
-sudo apt-get -y install nginx
-echo "Hello World!" | sudo tee /usr/share/nginx/html/index.html
-sudo service nginx start
+# Update package index
+sudo apt-get update
+
+# Install Nginx
+sudo apt-get install nginx -y
+
+# Configure Nginx
+sudo bash -c "cat > /etc/nginx/sites-available/default <<EOF
+server {
+    listen 80 default_server;
+    listen [::]:80 default_server;
+
+    root /var/www/html;
+    index index.html;
+
+    server_name _;
+
+    location / {
+        try_files \$uri \$uri/ =404;
+        echo \"Hello World!\";
+    }
+}
+EOF"
+
+# Restart Nginx
+sudo service nginx restart
+
